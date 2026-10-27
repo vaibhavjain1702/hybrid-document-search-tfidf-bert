@@ -19,3 +19,7 @@ pip install torch transformers scikit-learn chardet PyPDF2
 ## Files
 
 - `Project2Research.ipynb` - implementation and experiments.
+
+## Report
+
+- [Project report (PDF)](docs/ML_Project_Report.pdf)
